@@ -1,3 +1,4 @@
+// Print the classic hello world greeting.
 #include <stdio.h>
 
 int main(void)
